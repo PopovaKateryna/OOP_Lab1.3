@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+C:\Users\KATERYNA\Desktop\OOP\Lab1.3\Lab1.3\Lab1.3\BitString.cpp(50,18): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\KATERYNA\Desktop\OOP\Lab1.3\Lab1.3\Lab1.3\BitString.cpp(51,19): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\KATERYNA\Desktop\OOP\Lab1.3\Lab1.3\Lab1.3\BitString.cpp(60,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KATERYNA\Desktop\OOP\Lab1.3\Lab1.3\Lab1.3\BitString.cpp(84,26): warning C4018: '<': signed/unsigned mismatch
+  UnitTest1.vcxproj -> C:\Users\KATERYNA\Desktop\OOP\Lab1.3\Lab1.3\Debug\UnitTest1.dll
